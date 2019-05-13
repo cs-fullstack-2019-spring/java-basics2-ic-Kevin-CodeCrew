@@ -14,4 +14,4 @@ Create a function in your program that counts from [NUMBER1] to [NUMBER2]
 Create a program that asks a user “How awesome is Kenn and Kevin”. Create a loop that will not quit until they enter “very awesome”.
 
 ### Challenge:
-Refactor Exercise 4 so that it will work regardless of the cause of the text entered
+Refactor Exercise 4 so that it will work regardless of the case of the text entered
