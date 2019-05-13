@@ -6,8 +6,12 @@ Print 0 through 100 using a while loop.
 ### Exercise 2:
 Create a function that counts 0 to 5 three times in a row.
 
-### Exercise 8:
+### Exercise 3:
+Prompt the User to enter 2 numbers.
+Create a function in your program that counts from [NUMBER1] to [NUMBER2]
+
+### Exercise 4:
 Create a program that asks a user “How awesome is Kenn and Kevin”. Create a loop that will not quit until they enter “very awesome”.
 
-### Exercise 9:
-Create a program that has a hardcoded password. Create a while loop that will continually ask the user to enter the correct password until it’s correct. Once it’s correct print “THAT’S CORRECT!!!”
+### Challenge:
+Refactor Exercise 4 so that it will work regardless of the cause of the text entered
